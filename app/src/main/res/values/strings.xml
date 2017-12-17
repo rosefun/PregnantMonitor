@@ -39,7 +39,7 @@
     <string name="GDM_msg">您患病的几率较大，建议去医院做进一步检查以确定</string>
     <string name="GDM">妊娠期糖尿病</string>
     <string name="accuracy">准确度</string>
-
+    <string name="UserName">用户名</string>
 
     <string-array name="welcome_trips">
         <item>主人，奴婢在此等候多时了</item>
